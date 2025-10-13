@@ -1,0 +1,1 @@
+require("wildberries").setup()
